@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Video.js Shortcode
  * Plugin URI: https://github.com/byetimmy/video.js
- * Description: This plugin allows to use videoJS HTML5 player in a shortcode.
+ * Description: This plugin allows to use Video.js HTML5 player in a shortcode.
  * Version: 1.0.0
  * Author: Bob Barber
  * Author URI: https://github.com/byetimmy
