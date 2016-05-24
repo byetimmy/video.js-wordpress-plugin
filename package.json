@@ -1,0 +1,42 @@
+{
+  "name": "video.js-wordpress-plugin",
+  "description": "A Wordpress Plugin to use the Video.js HTML5 and Flash video player.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "flash",
+    "html5",
+    "player",
+    "video",
+    "videojs",
+	"wordpress"
+  ],
+  "homepage": "https://github.com/byetimmy/video.js-wordpress-plugin",
+  "author": "Bob Barber",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byetimmy/video.js-wordpress-plugin"
+  },
+  "main": "./dist/video-js",
+  "style": "./dist/video-js.css",
+  "dependencies": {
+	"video.js": "latest",
+	"gulp": "latest",
+	"gulp-zip": "latest",
+	"gulp-clean": "latest"
+  },
+  "standard": {
+    "ignore": [
+      "**/Gulpfile.js",
+      "**/build/**",
+      "**/dist/**",
+      "**/docs/**",
+      "**/lang/**",
+      "**/sandbox/**",
+      "**/test/**"
+    ]
+  }
+}
