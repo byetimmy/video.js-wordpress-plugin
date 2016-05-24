@@ -15,13 +15,11 @@ Add the shortcode in a post or page, and use the arguments to query based on tag
 
 See the [WordPress Codex](http://codex.wordpress.org/Class_Reference/WP_Query) for information on using the arguments.
 
-[Documentation](https://github.com/byetimmy/video-js-shortcode/wiki)
-
 **No support will be provided by the developer**
 
 == Installation ==
 
-1. Upload `display-posts-shortcode` to the `/wp-content/plugins/` directory.
+1. Upload `video-js-shortcode` to the `/wp-content/plugins/` directory.
 1. Activate the plugin through the *Plugins* menu in WordPress.
 1. Add the shortcode to a post or page. 
 

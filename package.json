@@ -20,8 +20,6 @@
     "type": "git",
     "url": "https://github.com/byetimmy/video.js-wordpress-plugin"
   },
-  "main": "./dist/video-js",
-  "style": "./dist/video-js.css",
   "dependencies": {
 	"video.js": "latest",
 	"gulp": "latest",
